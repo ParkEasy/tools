@@ -1,2 +1,2 @@
 # tools
-ParkEasy data collecetion toolchain
+ParkEasy data collection toolchain

@@ -1,0 +1,415 @@
+[{
+	"name": "P1.07",
+	"coordinates": {
+		"latitude": 50.9303086,
+		"longitude": 6.9271696
+	},
+	"descriptions": [
+		"WiSo Nord",
+		"Universitätsstra\u00dfe 24",
+		"56 Parkplätze",
+		"3 Behindertenparkplätze",
+		"1 Dienstfahrzeug",
+		"Schranke Einfahrt",
+		"Schranke Ausfahrt"
+	]
+}, {
+	"name": "P1.03",
+	"coordinates": {
+		"latitude": 50.9284359,
+		"longitude": 6.9260692
+	},
+	"descriptions": [
+		"Philosophikum Tiefgarage",
+		"Parkplätze : 115",
+		"Dienstfahrzeuge:17",
+		"Behindertenparkplätze: 1",
+		"\u00d6ffnungszeiten: 07:00-21:00",
+		"Semesterferien \u00d6ffnungszeiten:07:00-20:00"
+	]
+}, {
+	"name": "P1.13",
+	"coordinates": {
+		"latitude": 50.9291726,
+		"longitude": 6.9280386
+	},
+	"descriptions": [
+		"Hauptgebäude Dozenten Parkplatz",
+		"Behindertenparkplatz: 3",
+		"Dienstfahrzeuge: 38"
+	]
+}, {
+	"name": "P1.15",
+	"coordinates": {
+		"latitude": 50.9254194,
+		"longitude": 6.925876700000001
+	},
+	"descriptions": [
+		"Arbeitswirtschaftsrecht",
+		"Parkplätze:28",
+		"Dienstfahrzeuge:1",
+		"Behindertengerecht:1"
+	]
+}, {
+	"name": "P1.16",
+	"coordinates": {
+		"latitude": 50.9249866,
+		"longitude": 6.9261611
+	},
+	"descriptions": [
+		"Küpperstift Weyertal",
+		"Weyertal/Kerpernerstr:",
+		"Parkplätze::51",
+		"Behindertenparkplätze:0",
+		"Dienstfahrzeuge:0"
+	]
+}, {
+	"name": "P1.18",
+	"coordinates": {
+		"latitude": 50.9282766,
+		"longitude": 6.9340172
+	},
+	"descriptions": [
+		"Zentralmensa",
+		"Zülpicherwall",
+		"Parkplätze:21",
+		"Dienstfahrzeuge: 1"
+	]
+}, {
+	"name": "P1.20",
+	"coordinates": {
+		"latitude": 50.9287026,
+		"longitude": 6.9248387
+	},
+	"descriptions": [
+		"An St. Laurentius",
+		"Parkplätze:18",
+		"Behindertenparkplätze:1"
+	]
+}, {
+	"name": "P1.21",
+	"coordinates": {
+		"latitude": 50.9281431,
+		"longitude": 6.92092
+	},
+	"descriptions": [
+		"Robert-Koch-Strasse: 46-50",
+		"Parkplätze:21",
+		"Dienstfahrzeuge: 1",
+		"Beschilderte Parkplätze nur für Universitätsangehörige"
+	]
+}, {
+	"name": "P1.23",
+	"coordinates": {
+		"latitude": 50.9231234,
+		"longitude": 6.927647000000001
+	},
+	"descriptions": [
+		"Botanik",
+		"Parkplätze: 16"
+	]
+}, {
+	"name": "P1.25",
+	"coordinates": {
+		"latitude": 50.9252842,
+		"longitude": 6.9278052
+	},
+	"descriptions": [
+		"UB Parkplatz",
+		"Parkplatz: 8",
+		"Behindertenparkplätze: 2"
+	]
+}, {
+	"name": "P1.28",
+	"coordinates": {
+		"latitude": 50.9250881,
+		"longitude": 6.9278294
+	},
+	"descriptions": [
+		"Ur- und Frühgeschichte",
+		"Parkplätze: 7"
+	]
+}, {
+	"name": "P1.29",
+	"coordinates": {
+		"latitude": 50.9265615,
+		"longitude": 6.921203000000001
+	},
+	"descriptions": [
+		"Parkplätze : 6",
+		"Dienstfahrzeuge: 1",
+		"Montag-Donnerstag: 09:00-16:00",
+		"Freitag: 09:00-13:30",
+		"Samstag und Sonntag geschlossen"
+	]
+}, {
+	"name": "P1.30",
+	"coordinates": {
+		"latitude": 50.9278387,
+		"longitude": 6.9239321
+	},
+	"descriptions": [
+		"Botanik",
+		"Parkplätze :6"
+	]
+}, {
+	"name": "P1.31",
+	"coordinates": {
+		"latitude": 50.9250593,
+		"longitude": 6.9274472000000005
+	},
+	"descriptions": [
+		"Kerpenerstrasse : 15",
+		"Parkplätze : 5",
+		"Behindertenparkplatz: 1"
+	]
+}, {
+	"name": "P1.32",
+	"coordinates": {
+		"latitude": 50.9284372,
+		"longitude": 6.933837500000001
+	},
+	"descriptions": [
+		"Sportamt",
+		"Parkplätze : 4"
+	]
+}, {
+	"name": "P1.33",
+	"coordinates": {
+		"latitude": 50.9273755,
+		"longitude": 6.9223577
+	},
+	"descriptions": [
+		"Rechtsabteilung",
+		"Gyrhofstrasse. 21",
+		"Parkplätze : 1"
+	]
+}, {
+	"name": "P1.35",
+	"coordinates": {
+		"latitude": 50.9248649,
+		"longitude": 6.9257346
+	},
+	"descriptions": [
+		"Küppersstift",
+		"Parkplätze : 5"
+	]
+}, {
+	"name": "P1.37",
+	"coordinates": {
+		"latitude": 50.92616000000001,
+		"longitude": 6.9297391
+	},
+	"descriptions": [
+		"Universitätstrasse 22\u00a0",
+		"Parkplätze : 10",
+		"Behindertenparkplätze: 1"
+	]
+}, {
+	"name": "P2.02",
+	"coordinates": {
+		"latitude": 50.9348647,
+		"longitude": 6.9217964
+	},
+	"descriptions": [
+		"Einfahrt: Herbert-Lewin-Strasse",
+		"Ausfahrt: Gronewaldstr.",
+		"Parkplätze: 153",
+		"Behindertenparkplätze: 5"
+	]
+}, {
+	"name": "P2.08",
+	"coordinates": {
+		"latitude": 50.9329732,
+		"longitude": 6.9203266
+	},
+	"descriptions": [
+		"Frangenheimerstr.",
+		"Parkplätze: 51",
+		"Behindertenparkplätze: 50"
+	]
+}, {
+	"name": "P2.09",
+	"coordinates": {
+		"latitude": 50.9330011,
+		"longitude": 6.9200684
+	},
+	"descriptions": [
+		"Einfahrt: Frangenheimerstr.",
+		"Ausfahrt : Frangenheimerstr.",
+		"Parkplätze: 51",
+		"Behindertenparkplätze:\u00a0"
+	]
+}, {
+	"name": "P2.11",
+	"coordinates": {
+		"latitude": 50.9340356,
+		"longitude": 6.9230074
+	},
+	"descriptions": [
+		"Einfahrt: Gottfried-Keller- Str.",
+		"Ausfahrt: Gottfried-Keller-Str.",
+		"Parkplätze: 44",
+		"Behindertenparkplätze:\u00a0"
+	]
+}, {
+	"name": "P2.12",
+	"coordinates": {
+		"latitude": 50.9339841,
+		"longitude": 6.9219017
+	},
+	"descriptions": [
+		"IBW Gebäude",
+		"Herbert-Lewin-Str.",
+		"Parkplätze: 30",
+		"Behindertenparkplätze: 5"
+	]
+}, {
+	"name": "P2.14",
+	"coordinates": {
+		"latitude": 50.9332944,
+		"longitude": 6.9192939
+	},
+	"descriptions": [
+		"Gronewaldstr.",
+		"Parkplätze: 30",
+		"Behindertenparkplätze: 0"
+	]
+}, {
+	"name": "P2.22",
+	"coordinates": {
+		"latitude": 50.933695,
+		"longitude": 6.9190478
+	},
+	"descriptions": [
+		"Gronewaldstr.",
+		"Parkplätze: 16",
+		"Behindertenparkplätze: 0"
+	]
+}, {
+	"name": "P2.36",
+	"coordinates": {
+		"latitude": 50.9346708,
+		"longitude": 6.9136834
+	},
+	"descriptions": [
+		"Klosterstr. 79",
+		"Parkplätze: 18",
+		"Behindertenparkplätze: 2"
+	]
+}, {
+	"name": "P3.01",
+	"coordinates": {
+		"latitude": 50.92289050000001,
+		"longitude": 6.9332897
+	},
+	"descriptions": [
+		"Einfahrt: Greinstr.",
+		"Ausfahrt: Greinstr:",
+		"Parkplätze: 489",
+		"Behindertenparkplätze: 8"
+	]
+}, {
+	"name": "P3.04",
+	"coordinates": {
+		"latitude": 50.92395280000001,
+		"longitude": 6.9321135
+	},
+	"descriptions": [
+		"Einfahrt:Greinstr:\u00a0",
+		"Aushfahrt: Greinstr.",
+		"Parkplätze: 95",
+		"Behindertenparkplätze: 1"
+	]
+}, {
+	"name": "P3.05",
+	"coordinates": {
+		"latitude": 50.9230719,
+		"longitude": 6.9328934
+	},
+	"descriptions": [
+		"Greinstr.",
+		"Parkplätze: 69",
+		"Behindertenparkplätze: 0"
+	]
+}, {
+	"name": "P3.06",
+	"coordinates": {
+		"latitude": 50.9276021,
+		"longitude": 6.9349171
+	},
+	"descriptions": [
+		"Einfahrt : Zülpicherstr",
+		"Ausfahrt: Otto-Fischer-Str.",
+		"Parkplätze: 59",
+		"Behindertenparkplätze: 3"
+	]
+}, {
+	"name": "P3.10",
+	"coordinates": {
+		"latitude": 50.9230068,
+		"longitude": 6.9348487
+	},
+	"descriptions": [
+		"Einfahrt : Luxemburgerstr.",
+		"Ausfahrt: Greinstr.",
+		"Parkplätze: 48",
+		"Behindertenparkplätze: 0"
+	]
+}, {
+	"name": "P3.17",
+	"coordinates": {
+		"latitude": 50.9268836,
+		"longitude": 6.9379118
+	},
+	"descriptions": [
+		"Einfahrt: Otto-Fischer-Str",
+		"Ausfahrt: Otto-Fischer-Str.",
+		"Parkplätze: 25",
+		"Behindertenparkplätze: 0"
+	]
+}, {
+	"name": "P3.19",
+	"coordinates": {
+		"latitude": 50.9240686,
+		"longitude": 6.9318044
+	},
+	"descriptions": [
+		"Einfahrt :Greinstr.",
+		"Ausfahrt :Greinstr:",
+		"Parkplätze: 19",
+		"Behindertenparkplätze: 0"
+	]
+}, {
+	"name": "P3.24",
+	"coordinates": {
+		"latitude": 50.9251878,
+		"longitude": 6.9325393
+	},
+	"descriptions": [
+		"Einfahrt: Greinstrasse",
+		"Ausfahrt: Greinstrasse:",
+		"Parkplätze: 9",
+		"Behindertenparkplätze: 3"
+	]
+}, {
+	"name": "P3.27",
+	"coordinates": {
+		"latitude": 50.9228817,
+		"longitude": 6.9339395
+	},
+	"descriptions": [
+		"Einfahrt : Greinstr.",
+		"Parkplätze: 4",
+		"Behindertenparkplätze: 0"
+	]
+}, {
+	"name": "P2.38",
+	"coordinates": {
+		"latitude": 50.9362631,
+		"longitude": 6.923179800000001
+	},
+	"descriptions": [
+		"Parkplätze: 5"
+	]
+}]

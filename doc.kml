@@ -1,0 +1,377 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>Parkplätze</name>
+		<Placemark>
+			<name>P1.07</name>
+			<description><![CDATA[WiSo Nord<br>Universitätsstraße 24<br>56 Parkplätze<br>3 Behindertenparkplätze<br>1 Dienstfahrzeug<br>Schranke Einfahrt<br>Schranke Ausfahrt]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>6.9271696,50.9303086,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>P1.03</name>
+			<description><![CDATA[Philosophikum Tiefgarage<br>Parkplätze : 115<br>Dienstfahrzeuge:17<br>Behindertenparkplätze: 1<br>Öffnungszeiten: 07:00-21:00<br>Semesterferien Öffnungszeiten:07:00-20:00]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>6.9260692,50.9284359,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>P1.13</name>
+			<description><![CDATA[Hauptgebäude Dozenten Parkplatz<br>Behindertenparkplatz: 3<br>Dienstfahrzeuge: 38]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>6.9280386,50.9291726,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>P1.15</name>
+			<description><![CDATA[Arbeitswirtschaftsrecht<br>Parkplätze:28<br>Dienstfahrzeuge:1<br>Behindertengerecht:1]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>6.925876700000001,50.9254194,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>P1.16</name>
+			<description><![CDATA[Küpperstift Weyertal<br>Weyertal/Kerpernerstr:<br>Parkplätze::51<br>Behindertenparkplätze:0<br>Dienstfahrzeuge:0]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>6.9261611,50.9249866,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>P1.18</name>
+			<description><![CDATA[Zentralmensa<br>Zülpicherwall<br>Parkplätze:21<br>Dienstfahrzeuge: 1]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>6.9340172,50.9282766,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>P1.20</name>
+			<description><![CDATA[An St. Laurentius<br>Parkplätze:18<br>Behindertenparkplätze:1]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>6.9248387,50.9287026,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>P1.21</name>
+			<description><![CDATA[Robert-Koch-Strasse: 46-50<br>Parkplätze:21<br>Dienstfahrzeuge: 1<br>Beschilderte Parkplätze nur für Universitätsangehörige]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>6.92092,50.9281431,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>P1.23</name>
+			<description><![CDATA[Botanik<br>Parkplätze: 16]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>6.927647000000001,50.9231234,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>P1.25</name>
+			<description><![CDATA[UB Parkplatz<br>Parkplatz: 8<br>Behindertenparkplätze: 2]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>6.9278052,50.9252842,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>P1.28</name>
+			<description><![CDATA[Ur- und Frühgeschichte<br>Parkplätze: 7]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>6.9278294,50.9250881,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>P1.29</name>
+			<description><![CDATA[Parkplätze : 6<br>Dienstfahrzeuge: 1<br>Montag-Donnerstag: 09:00-16:00<br>Freitag: 09:00-13:30<br>Samstag und Sonntag geschlossen]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>6.921203000000001,50.9265615,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>P1.30</name>
+			<description><![CDATA[Botanik<br>Parkplätze :6]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>6.9239321,50.9278387,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>P1.31</name>
+			<description><![CDATA[Kerpenerstrasse : 15<br>Parkplätze : 5Behindertenparkplatz: 1]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>6.9274472000000005,50.9250593,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>P1.32</name>
+			<description><![CDATA[Sportamt<br>Parkplätze : 4]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>6.933837500000001,50.9284372,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>P1.33</name>
+			<description><![CDATA[Rechtsabteilung<br>Gyrhofstrasse. 21<br>Parkplätze : 1]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>6.9223577,50.9273755,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>P1.35</name>
+			<description><![CDATA[Küppersstift<br>Parkplätze : 5]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>6.9257346,50.9248649,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>P1.37</name>
+			<description><![CDATA[Universitätstrasse 22 <br>Parkplätze : 10Behindertenparkplätze: 1]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>6.9297391,50.92616000000001,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>P2.02</name>
+			<description><![CDATA[Einfahrt: Herbert-Lewin-Strasse<br>Ausfahrt: Gronewaldstr.<br>Parkplätze: 153<br>Behindertenparkplätze: 5]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>6.9217964,50.9348647,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>P2.08</name>
+			<description><![CDATA[Frangenheimerstr.Parkplätze: 51Behindertenparkplätze: 50]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>6.9203266,50.9329732,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>P2.09</name>
+			<description><![CDATA[Einfahrt: Frangenheimerstr.<br>Ausfahrt : Frangenheimerstr.Parkplätze: 51Behindertenparkplätze: ]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>6.9200684,50.9330011,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>P2.11</name>
+			<description><![CDATA[Einfahrt: Gottfried-Keller- Str.<br>Ausfahrt: Gottfried-Keller-Str.<br>Parkplätze: 44Behindertenparkplätze: ]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>6.9230074,50.9340356,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>P2.12</name>
+			<description><![CDATA[IBW Gebäude<br>Herbert-Lewin-Str.<br>Parkplätze: 30Behindertenparkplätze: 5]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>6.9219017,50.9339841,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>P2.14</name>
+			<description><![CDATA[Gronewaldstr.Parkplätze: 30Behindertenparkplätze: 0]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>6.9192939,50.9332944,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>P2.22</name>
+			<description><![CDATA[Gronewaldstr.<br>Parkplätze: 16Behindertenparkplätze: 0]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>6.9190478,50.933695,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>P2.36</name>
+			<description><![CDATA[Klosterstr. 79<br>Parkplätze: 18<br>Behindertenparkplätze: 2]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>6.9136834,50.9346708,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>P3.01</name>
+			<description><![CDATA[Einfahrt: Greinstr.<br>Ausfahrt: Greinstr:<br>Parkplätze: 489<br>Behindertenparkplätze: 8]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>6.9332897,50.92289050000001,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>P3.04</name>
+			<description><![CDATA[Einfahrt:Greinstr: <br>Aushfahrt: Greinstr.<br>Parkplätze: 95<br><br>Behindertenparkplätze: 1]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>6.9321135,50.92395280000001,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>P3.05</name>
+			<description><![CDATA[Greinstr.<br>Parkplätze: 69<br>Behindertenparkplätze: 0]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>6.9328934,50.9230719,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>P3.06</name>
+			<description><![CDATA[Einfahrt : Zülpicherstr<br>Ausfahrt: Otto-Fischer-Str.<br>Parkplätze: 59<br>Behindertenparkplätze: 3]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>6.9349171,50.9276021,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>P3.10</name>
+			<description><![CDATA[Einfahrt : Luxemburgerstr.<br>Ausfahrt: Greinstr.<br>Parkplätze: 48<br>Behindertenparkplätze: 0]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>6.9348487,50.9230068,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>P3.17</name>
+			<description><![CDATA[Einfahrt: Otto-Fischer-Str<br>Ausfahrt: Otto-Fischer-Str.<br>Parkplätze: 25<br>Behindertenparkplätze: 0]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>6.9379118,50.9268836,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>P3.19</name>
+			<description><![CDATA[Einfahrt :Greinstr.<br>Ausfahrt :Greinstr:<br>Parkplätze: 19<br>Behindertenparkplätze: 0]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>6.9318044,50.9240686,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>P3.24</name>
+			<description><![CDATA[Einfahrt: Greinstrasse<br>Ausfahrt: Greinstrasse:<br>Parkplätze: 9<br>Behindertenparkplätze: 3]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>6.9325393,50.9251878,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>P3.27</name>
+			<description><![CDATA[Einfahrt : Greinstr.<br>Parkplätze: 4<br>Behindertenparkplätze: 0]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>6.9339395,50.9228817,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>P2.38</name>
+			<description><![CDATA[Parkplätze: 5]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>6.923179800000001,50.9362631,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Style id='icon-503-DB4436'>
+			<IconStyle>
+				<color>ff3644DB</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+		</Style>
+	</Document>
+</kml>

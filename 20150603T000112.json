@@ -6,13 +6,12 @@
 	},
 	"descriptions": [
 		"WiSo Nord",
-		"Universitätsstra\u00dfe 24",
-		"56 Parkplätze",
-		"3 Behindertenparkplätze",
-		"1 Dienstfahrzeug",
-		"Schranke Einfahrt",
-		"Schranke Ausfahrt"
-	]
+		"Universitätsstrasse 24"
+	],
+	"num_spaces": 56,
+	"num_disabled": 3,
+	"num_service": 1,
+	"gates": true
 }, {
 	"name": "P1.03",
 	"coordinates": {
@@ -21,12 +20,13 @@
 	},
 	"descriptions": [
 		"Philosophikum Tiefgarage",
-		"Parkplätze : 115",
-		"Dienstfahrzeuge:17",
-		"Behindertenparkplätze: 1",
-		"\u00d6ffnungszeiten: 07:00-21:00",
-		"Semesterferien \u00d6ffnungszeiten:07:00-20:00"
-	]
+		"Öffnungszeiten: 07:00-21:00",
+		"Semesterferien Öffnungszeiten:07:00-20:00"
+	],
+	"num_spaces": 115,
+	"num_disabled": 1,
+	"num_service": 17,
+	"gates": true
 }, {
 	"name": "P1.13",
 	"coordinates": {
@@ -34,10 +34,12 @@
 		"longitude": 6.9280386
 	},
 	"descriptions": [
-		"Hauptgebäude Dozenten Parkplatz",
-		"Behindertenparkplatz: 3",
-		"Dienstfahrzeuge: 38"
-	]
+		"Hauptgebäude Dozenten Parkplatz"
+	],
+	"num_spaces": 0,
+	"num_disabled": 3,
+	"num_service": 38,
+	"gates": false
 }, {
 	"name": "P1.15",
 	"coordinates": {
@@ -45,11 +47,12 @@
 		"longitude": 6.925876700000001
 	},
 	"descriptions": [
-		"Arbeitswirtschaftsrecht",
-		"Parkplätze:28",
-		"Dienstfahrzeuge:1",
-		"Behindertengerecht:1"
-	]
+		"Arbeitswirtschaftsrecht"
+	],
+	"num_spaces": 28,
+	"num_disabled": 1,
+	"num_service": 1,
+	"gates": false
 }, {
 	"name": "P1.16",
 	"coordinates": {
@@ -58,11 +61,12 @@
 	},
 	"descriptions": [
 		"Küpperstift Weyertal",
-		"Weyertal/Kerpernerstr:",
-		"Parkplätze::51",
-		"Behindertenparkplätze:0",
-		"Dienstfahrzeuge:0"
-	]
+		"Weyertal/Kerpernerstr."
+	],
+	"num_spaces": 51,
+	"num_disabled": 0,
+	"num_service": 0,
+	"gates": false
 }, {
 	"name": "P1.18",
 	"coordinates": {
@@ -71,10 +75,12 @@
 	},
 	"descriptions": [
 		"Zentralmensa",
-		"Zülpicherwall",
-		"Parkplätze:21",
-		"Dienstfahrzeuge: 1"
-	]
+		"Zülpicherwall"
+	],
+	"num_spaces": 21,
+	"num_disabled": 0,
+	"num_service": 1,
+	"gates": false
 }, {
 	"name": "P1.20",
 	"coordinates": {
@@ -83,9 +89,11 @@
 	},
 	"descriptions": [
 		"An St. Laurentius",
-		"Parkplätze:18",
-		"Behindertenparkplätze:1"
-	]
+	],
+	"num_spaces": 18,
+	"num_disabled": 1,
+	"num_service": 0,
+	"gates": false
 }, {
 	"name": "P1.21",
 	"coordinates": {
@@ -94,10 +102,12 @@
 	},
 	"descriptions": [
 		"Robert-Koch-Strasse: 46-50",
-		"Parkplätze:21",
-		"Dienstfahrzeuge: 1",
 		"Beschilderte Parkplätze nur für Universitätsangehörige"
-	]
+	],
+	"num_spaces": 21,
+	"num_disabled": 0,
+	"num_service": 1,
+	"gates": false
 }, {
 	"name": "P1.23",
 	"coordinates": {
@@ -105,9 +115,12 @@
 		"longitude": 6.927647000000001
 	},
 	"descriptions": [
-		"Botanik",
-		"Parkplätze: 16"
-	]
+		"Botanik"
+	],
+	"num_spaces": 16,
+	"num_disabled": 0,
+	"num_service": 0,
+	"gates": false
 }, {
 	"name": "P1.25",
 	"coordinates": {
@@ -115,10 +128,12 @@
 		"longitude": 6.9278052
 	},
 	"descriptions": [
-		"UB Parkplatz",
-		"Parkplatz: 8",
-		"Behindertenparkplätze: 2"
-	]
+		"UB Parkplatz"
+	],
+	"num_spaces": 8,
+	"num_disabled": 2,
+	"num_service": 0,
+	"gates": false
 }, {
 	"name": "P1.28",
 	"coordinates": {
@@ -126,9 +141,12 @@
 		"longitude": 6.9278294
 	},
 	"descriptions": [
-		"Ur- und Frühgeschichte",
-		"Parkplätze: 7"
-	]
+		"Ur- und Frühgeschichte"
+	],
+	"num_spaces": 7,
+	"num_disabled": 0,
+	"num_service": 0,
+	"gates": false
 }, {
 	"name": "P1.29",
 	"coordinates": {
@@ -136,12 +154,14 @@
 		"longitude": 6.921203000000001
 	},
 	"descriptions": [
-		"Parkplätze : 6",
-		"Dienstfahrzeuge: 1",
 		"Montag-Donnerstag: 09:00-16:00",
 		"Freitag: 09:00-13:30",
 		"Samstag und Sonntag geschlossen"
-	]
+	],
+	"num_spaces": 6,
+	"num_disabled": 0,
+	"num_service": 1,
+	"gates": true
 }, {
 	"name": "P1.30",
 	"coordinates": {
@@ -149,9 +169,12 @@
 		"longitude": 6.9239321
 	},
 	"descriptions": [
-		"Botanik",
-		"Parkplätze :6"
-	]
+		"Botanik"
+	],
+	"num_spaces": 6,
+	"num_disabled": 0,
+	"num_service": 0,
+	"gates": false
 }, {
 	"name": "P1.31",
 	"coordinates": {
@@ -159,10 +182,12 @@
 		"longitude": 6.9274472000000005
 	},
 	"descriptions": [
-		"Kerpenerstrasse : 15",
-		"Parkplätze : 5",
-		"Behindertenparkplatz: 1"
-	]
+		"Kerpenerstrasse : 15"
+	],
+	"num_spaces": 5,
+	"num_disabled": 1,
+	"num_service": 0,
+	"gates": false
 }, {
 	"name": "P1.32",
 	"coordinates": {
@@ -170,9 +195,12 @@
 		"longitude": 6.933837500000001
 	},
 	"descriptions": [
-		"Sportamt",
-		"Parkplätze : 4"
-	]
+		"Sportamt"
+	],
+	"num_spaces": 4,
+	"num_disabled": 0,
+	"num_service": 0,
+	"gates": false
 }, {
 	"name": "P1.33",
 	"coordinates": {
@@ -181,9 +209,12 @@
 	},
 	"descriptions": [
 		"Rechtsabteilung",
-		"Gyrhofstrasse. 21",
-		"Parkplätze : 1"
-	]
+		"Gyrhofstrasse. 21"
+	],
+	"num_spaces": 1,
+	"num_disabled": 0,
+	"num_service": 0,
+	"gates": false
 }, {
 	"name": "P1.35",
 	"coordinates": {
@@ -191,9 +222,12 @@
 		"longitude": 6.9257346
 	},
 	"descriptions": [
-		"Küppersstift",
-		"Parkplätze : 5"
-	]
+		"Küppersstift"
+	],
+	"num_spaces": 5,
+	"num_disabled": 0,
+	"num_service": 0,
+	"gates": false
 }, {
 	"name": "P1.37",
 	"coordinates": {
@@ -201,10 +235,12 @@
 		"longitude": 6.9297391
 	},
 	"descriptions": [
-		"Universitätstrasse 22\u00a0",
-		"Parkplätze : 10",
-		"Behindertenparkplätze: 1"
-	]
+		"Universitätstrasse 22"
+	],
+	"num_spaces": 10,
+	"num_disabled": 1,
+	"num_service": 0,
+	"gates": false
 }, {
 	"name": "P2.02",
 	"coordinates": {
@@ -213,10 +249,12 @@
 	},
 	"descriptions": [
 		"Einfahrt: Herbert-Lewin-Strasse",
-		"Ausfahrt: Gronewaldstr.",
-		"Parkplätze: 153",
-		"Behindertenparkplätze: 5"
-	]
+		"Ausfahrt: Gronewaldstr."
+	],
+	"num_spaces": 152,
+	"num_disabled": 5,
+	"num_service": 0,
+	"gates": false
 }, {
 	"name": "P2.08",
 	"coordinates": {
@@ -225,9 +263,11 @@
 	},
 	"descriptions": [
 		"Frangenheimerstr.",
-		"Parkplätze: 51",
-		"Behindertenparkplätze: 50"
-	]
+	],
+	"num_spaces": 51,
+	"num_disabled": 50,
+	"num_service": 0,
+	"gates": false
 }, {
 	"name": "P2.09",
 	"coordinates": {
@@ -237,9 +277,11 @@
 	"descriptions": [
 		"Einfahrt: Frangenheimerstr.",
 		"Ausfahrt : Frangenheimerstr.",
-		"Parkplätze: 51",
-		"Behindertenparkplätze:\u00a0"
-	]
+	],
+	"num_spaces": 51,
+	"num_disabled": 0,
+	"num_service": 0,
+	"gates": false
 }, {
 	"name": "P2.11",
 	"coordinates": {
@@ -248,10 +290,12 @@
 	},
 	"descriptions": [
 		"Einfahrt: Gottfried-Keller- Str.",
-		"Ausfahrt: Gottfried-Keller-Str.",
-		"Parkplätze: 44",
-		"Behindertenparkplätze:\u00a0"
-	]
+		"Ausfahrt: Gottfried-Keller-Str."
+	],
+	"num_spaces": 44,
+	"num_disabled": 0,
+	"num_service": 0,
+	"gates": false
 }, {
 	"name": "P2.12",
 	"coordinates": {
@@ -260,10 +304,12 @@
 	},
 	"descriptions": [
 		"IBW Gebäude",
-		"Herbert-Lewin-Str.",
-		"Parkplätze: 30",
-		"Behindertenparkplätze: 5"
-	]
+		"Herbert-Lewin-Str."
+	],
+	"num_spaces": 30,
+	"num_disabled": 5,
+	"num_service": 0,
+	"gates": false
 }, {
 	"name": "P2.14",
 	"coordinates": {
@@ -271,10 +317,12 @@
 		"longitude": 6.9192939
 	},
 	"descriptions": [
-		"Gronewaldstr.",
-		"Parkplätze: 30",
-		"Behindertenparkplätze: 0"
-	]
+		"Gronewaldstr."
+	],
+	"num_spaces": 30,
+	"num_disabled": 0,
+	"num_service": 0,
+	"gates": false
 }, {
 	"name": "P2.22",
 	"coordinates": {
@@ -282,10 +330,12 @@
 		"longitude": 6.9190478
 	},
 	"descriptions": [
-		"Gronewaldstr.",
-		"Parkplätze: 16",
-		"Behindertenparkplätze: 0"
-	]
+		"Gronewaldstr."
+	],
+	"num_spaces": 16,
+	"num_disabled": 0,
+	"num_service": 0,
+	"gates": false
 }, {
 	"name": "P2.36",
 	"coordinates": {
@@ -296,7 +346,11 @@
 		"Klosterstr. 79",
 		"Parkplätze: 18",
 		"Behindertenparkplätze: 2"
-	]
+	],
+	"num_spaces": 18,
+	"num_disabled": 2,
+	"num_service": 0,
+	"gates": false
 }, {
 	"name": "P3.01",
 	"coordinates": {
@@ -305,10 +359,12 @@
 	},
 	"descriptions": [
 		"Einfahrt: Greinstr.",
-		"Ausfahrt: Greinstr:",
-		"Parkplätze: 489",
-		"Behindertenparkplätze: 8"
-	]
+		"Ausfahrt: Greinstr:"
+	],
+	"num_spaces": 489,
+	"num_disabled": 8,
+	"num_service": 0,
+	"gates": false
 }, {
 	"name": "P3.04",
 	"coordinates": {
@@ -316,11 +372,13 @@
 		"longitude": 6.9321135
 	},
 	"descriptions": [
-		"Einfahrt:Greinstr:\u00a0",
-		"Aushfahrt: Greinstr.",
-		"Parkplätze: 95",
-		"Behindertenparkplätze: 1"
-	]
+		"Einfahrt:Greinstr.",
+		"Aushfahrt: Greinstr."
+	],
+	"num_spaces": 95,
+	"num_disabled": 1,
+	"num_service": 0,
+	"gates": false
 }, {
 	"name": "P3.05",
 	"coordinates": {
@@ -328,10 +386,12 @@
 		"longitude": 6.9328934
 	},
 	"descriptions": [
-		"Greinstr.",
-		"Parkplätze: 69",
-		"Behindertenparkplätze: 0"
-	]
+		"Greinstr."
+	],
+	"num_spaces": 69,
+	"num_disabled": 0,
+	"num_service": 0,
+	"gates": false
 }, {
 	"name": "P3.06",
 	"coordinates": {
@@ -343,7 +403,11 @@
 		"Ausfahrt: Otto-Fischer-Str.",
 		"Parkplätze: 59",
 		"Behindertenparkplätze: 3"
-	]
+	],
+	"num_spaces": 59,
+	"num_disabled": 3,
+	"num_service": 0,
+	"gates": false
 }, {
 	"name": "P3.10",
 	"coordinates": {
@@ -355,7 +419,11 @@
 		"Ausfahrt: Greinstr.",
 		"Parkplätze: 48",
 		"Behindertenparkplätze: 0"
-	]
+	],
+	"num_spaces": 48,
+	"num_disabled": 0,
+	"num_service": 0,
+	"gates": false
 }, {
 	"name": "P3.17",
 	"coordinates": {
@@ -364,10 +432,12 @@
 	},
 	"descriptions": [
 		"Einfahrt: Otto-Fischer-Str",
-		"Ausfahrt: Otto-Fischer-Str.",
-		"Parkplätze: 25",
-		"Behindertenparkplätze: 0"
-	]
+		"Ausfahrt: Otto-Fischer-Str."
+	],
+	"num_spaces": 25,
+	"num_disabled": 0,
+	"num_service": 0,
+	"gates": false
 }, {
 	"name": "P3.19",
 	"coordinates": {
@@ -376,10 +446,12 @@
 	},
 	"descriptions": [
 		"Einfahrt :Greinstr.",
-		"Ausfahrt :Greinstr:",
-		"Parkplätze: 19",
-		"Behindertenparkplätze: 0"
-	]
+		"Ausfahrt :Greinstr:"
+	],
+	"num_spaces": 19,
+	"num_disabled": 0,
+	"num_service": 0,
+	"gates": false
 }, {
 	"name": "P3.24",
 	"coordinates": {
@@ -388,10 +460,12 @@
 	},
 	"descriptions": [
 		"Einfahrt: Greinstrasse",
-		"Ausfahrt: Greinstrasse:",
-		"Parkplätze: 9",
-		"Behindertenparkplätze: 3"
-	]
+		"Ausfahrt: Greinstrasse"
+	],
+	"num_spaces": 9,
+	"num_disabled": 3,
+	"num_service": 0,
+	"gates": false
 }, {
 	"name": "P3.27",
 	"coordinates": {
@@ -402,14 +476,20 @@
 		"Einfahrt : Greinstr.",
 		"Parkplätze: 4",
 		"Behindertenparkplätze: 0"
-	]
+	],
+	"num_spaces": 4,
+	"num_disabled": 0,
+	"num_service": 0,
+	"gates": false
 }, {
 	"name": "P2.38",
 	"coordinates": {
 		"latitude": 50.9362631,
 		"longitude": 6.923179800000001
 	},
-	"descriptions": [
-		"Parkplätze: 5"
-	]
+	"descriptions": [],
+	"num_spaces": 5,
+	"num_disabled": 0,
+	"num_service": 0,
+	"gates": false
 }]

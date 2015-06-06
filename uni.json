@@ -110,7 +110,7 @@
 		"longitude": 6.9248387
 	},
 	"descriptions": [
-		"An St. Laurentius",
+		"An St. Laurentius"
 	],
 	"num_spaces": 18,
 	"num_disabled": 1,
@@ -302,7 +302,7 @@
 		"longitude": 6.9203266
 	},
 	"descriptions": [
-		"Frangenheimerstr.",
+		"Frangenheimerstr."
 	],
 	"num_spaces": 51,
 	"num_disabled": 50,
@@ -316,7 +316,7 @@
 	},
 	"descriptions": [
 		"Einfahrt: Frangenheimerstr.",
-		"Ausfahrt : Frangenheimerstr.",
+		"Ausfahrt : Frangenheimerstr."
 	],
 	"num_spaces": 51,
 	"num_disabled": 0,

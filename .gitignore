@@ -55,3 +55,7 @@ docs/_build/
 
 # PyBuilder
 target/
+Prices/Prices/bin/Debug/Prices.exe
+Prices/Prices/obj/x86/Debug/Prices.exe
+Prices/Prices/bin/Debug/Prices.exe.mdb
+Prices/Prices/obj/x86/Debug/Prices.exe.mdb

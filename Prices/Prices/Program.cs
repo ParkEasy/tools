@@ -16,10 +16,15 @@ namespace Prices
 			foreach (String price in prices) 
 			{
 				PriceModel model = PriceParser.Parse (price);
-				if (model != null)
+				if (model != null) 
+				{
 					models.Add (model);
+				}
 			}
 
+			double p = PriceParser.Interpret (models [45], 5);
+
+			Console.WriteLine("Price {0}", p);
 			Console.WriteLine ("{0} of {1} parsed.", models.Count, prices.Count);
 		}
 	}

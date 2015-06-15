@@ -9,5 +9,11 @@ public class PerHourModel
 		this.Timing = Timing;
 		this.Price = Price;
 	}
+
+	// APPLY
+	public double Apply(double hours)
+	{
+		return hours * this.Timing * this.Price;
+	}
 }
 

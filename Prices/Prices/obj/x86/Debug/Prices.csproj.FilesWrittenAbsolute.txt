@@ -5,3 +5,10 @@
 /Volumes/Macintosh/Users/thomasbruggemann/Projects/Prices/Prices/obj/x86/Debug/Prices.exe.mdb
 /Volumes/Macintosh/Users/thomasbruggemann/Projects/Prices/Prices/bin/Debug/prices.json
 /Volumes/Macintosh/Users/thomasbruggemann/Projects/Prices/Prices/bin/Debug/Newtonsoft.Json.dll
+/Volumes/Macintosh/Users/thomasbruggemann/Sites/ParkEasy/tools/Prices/Prices/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Volumes/Macintosh/Users/thomasbruggemann/Sites/ParkEasy/tools/Prices/Prices/bin/Debug/prices.json
+/Volumes/Macintosh/Users/thomasbruggemann/Sites/ParkEasy/tools/Prices/Prices/bin/Debug/Prices.exe.mdb
+/Volumes/Macintosh/Users/thomasbruggemann/Sites/ParkEasy/tools/Prices/Prices/bin/Debug/Prices.exe
+/Volumes/Macintosh/Users/thomasbruggemann/Sites/ParkEasy/tools/Prices/Prices/obj/x86/Debug/Prices.exe
+/Volumes/Macintosh/Users/thomasbruggemann/Sites/ParkEasy/tools/Prices/Prices/obj/x86/Debug/Prices.exe.mdb
+/Volumes/Macintosh/Users/thomasbruggemann/Sites/ParkEasy/tools/Prices/Prices/bin/Debug/Newtonsoft.Json.dll

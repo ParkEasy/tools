@@ -245,8 +245,41 @@ namespace Prices
 		{
 			double price = 0.0;
 
+			bool specialHoursMatches = false;
+
+			// check for special hours
+			if(pricing.SpecialHours != null)
+			{		
+				// check if the parking time, from current datetime
+				// onwords is inclosed in a spezial parking range
+				string now = string.Format("{0:HHmm}", DateTime.Now);
+				int start = Convert.ToInt32(now);
+				double specialDuration = Math.Abs((pricing.SpecialHours.To - pricing.SpecialHours.From) % 2400.0) / 100.0;
+
+				// is the parking start time within the special hours?
+				// TODO: does not work if start is 0018 and from is 2000 and to is 0700
+				if (start >= (int)pricing.SpecialHours.From) 
+				{
+					double timegapToSpecialStart = (pricing.SpecialHours.From - (double)start) / 100.0;
+					double timeInSpecial = specialDuration - timegapToSpecialStart;
+					parkingtime -= timeInSpecial;
+
+					// apply special time on hour or general basis
+					if(pricing.SpecialHours.PerHour == true)
+					{
+						price += pricing.SpecialHours.Price * timeInSpecial;
+					}
+					else
+					{
+						price += pricing.SpecialHours.Price;
+					}
+
+					specialHoursMatches = true;
+				}
+			}
+
 			// check for tiered prices first
-			if (pricing.Tiered != null) 
+			if (pricing.Tiered != null && specialHoursMatches == false) 
 			{
 				// sort by "from" in order to apply the prices in the correct order
 				pricing.Tiered.Sort (delegate(TierModel x, TierModel y) 
@@ -260,6 +293,16 @@ namespace Prices
 				foreach (TierModel tier in pricing.Tiered) 
 				{
 					double elapsed = Math.Round (tier.To) - Math.Round (tier.From);
+
+					// use the tier
+					if (parkingtime >= elapsed) 
+					{
+						// decrease parking time by tier amount
+						parkingtime -= elapsed;
+
+						// add the tier price to overall parking time
+						price += tier.Price;
+					}
 				}
 			}
 

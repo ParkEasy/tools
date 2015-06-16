@@ -2,9 +2,9 @@
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
   <MonoDevelop.Ide.Workbench ActiveDocument="Prices/PriceParser.cs">
     <Files>
-      <File FileName="Prices/Program.cs" Line="25" Column="48" />
-      <File FileName="Prices/PriceParser.cs" Line="263" Column="42" />
-      <File FileName="Prices/TierModel.cs" Line="13" Column="1" />
+      <File FileName="Prices/Program.cs" Line="1" Column="1" />
+      <File FileName="Prices/PriceParser.cs" Line="267" Column="5" />
+      <File FileName="Prices/TierModel.cs" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

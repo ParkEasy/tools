@@ -252,13 +252,24 @@ namespace Prices
 			{		
 				// check if the parking time, from current datetime
 				// onwords is inclosed in a spezial parking range
-				string now = string.Format("{0:HHmm}", DateTime.Now);
-				int start = Convert.ToInt32(now);
+				int start = Convert.ToInt32(string.Format("{0:HHmm}", DateTime.Now));
+				int stop = Convert.ToInt32(string.Format("{0:HHmm}", DateTime.Now.AddHours (parkingtime)));
+
 				double specialDuration = Math.Abs((pricing.SpecialHours.To - pricing.SpecialHours.From) % 2400.0) / 100.0;
+				bool isParkingTimeWithingSpecialHours = false;
+
+				// is special hours spanning two days?
+				if (pricing.SpecialHours.To - pricing.SpecialHours.From < 0) 
+				{
+					isParkingTimeWithingSpecialHours = (start >= (int)pricing.SpecialHours.From || stop <= (int)pricing.SpecialHours.To);
+				} 
+				else 
+				{
+					isParkingTimeWithingSpecialHours = (start >= (int)pricing.SpecialHours.From && stop <= (int)pricing.SpecialHours.To);
+				}
 
 				// is the parking start time within the special hours?
-				// TODO: does not work if start is 0018 and from is 2000 and to is 0700
-				if (start >= (int)pricing.SpecialHours.From) 
+				if (isParkingTimeWithingSpecialHours) 
 				{
 					double timegapToSpecialStart = (pricing.SpecialHours.From - (double)start) / 100.0;
 					double timeInSpecial = specialDuration - timegapToSpecialStart;
